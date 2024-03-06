@@ -1,0 +1,15 @@
+[submodule "framework/out_of_date/vertex-1"]
+	path = framework/out_of_date/vertex-1
+	url = https://github.com/robotsvision/vertex-1
+[submodule "framework/out_of_date/vertex-2"]
+	path = framework/out_of_date/vertex-2
+	url = https://github.com/robotsvision/vertex-2
+[submodule "framework/vertex-3"]
+	path = framework/vertex-3
+	url = https://github.com/robotsvision/vertex-3
+[submodule "framework/vertex-3-ut"]
+	path = framework/vertex-3-ut
+	url = https://github.com/robotsvision/vertex-3-ut
+[submodule "framework/vertex-4-polaris"]
+	path = framework/vertex-4-polaris
+	url = https://github.com/robotsvision/vertex-4-polaris
